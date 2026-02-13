@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+.vscode/
+
+# secrets
+.env
+*.key
+*.pem
+
+# data exports (avoid pushing raw data)
+*.csv
+*.parquet
+*.xlsx
+
+# Power BI cache/backups (optional)
+*.tmp
