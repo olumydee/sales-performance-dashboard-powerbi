@@ -24,5 +24,6 @@ Retail transaction dataset (5,700+ records) analyzed for regional and product-le
 Power BI, MySQL, Excel
 
 ## Files
+
 ## Files
 - `report/Sales_Performance_Project_dashboard.pbix` — Power BI report file (download and open in Power BI Desktop)
